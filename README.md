@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Tools/Technologies</h2>
+<h2 align="left">Certifications</h2>
 
 ###
 
